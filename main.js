@@ -278,6 +278,7 @@ async function updateEmplRoleFunc() {
     allPrompts();
 }
 
+
 function endFunc() {
     console.log("Good-bye!");
     process.exit();
