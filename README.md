@@ -8,5 +8,5 @@ DEPARTMENTS table keeps track of the different department names
 ROLE table keeps the info of the title, salary, ID for the role, and department ID
 EMPLOYEE table keeps track of employee ID, first name, last name, role ID, and manager ID.
 
-<img src="./Assets/schema.JPG" alt="Schema"> 
+<img src="./Assets/schema.JPG" alt="Schema" 
 
